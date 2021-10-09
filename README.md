@@ -7,7 +7,7 @@ Using R's "soundecology" to demonstrate a dissertation for measuring biodiversit
 Using R's "soundecology" package, this sets of files and code demonstrates “Connecting soundscape to lanscape: Which acoustic index best describes landscape
 configuration?” (Susan Fuller) with a set of sounds used from three specific sources (not seen in this repo) and latter applied to different functions of soundecology, seewave and tuneR, then latter plotted with Python and matplotlib.
 
-You can download the paper [here.](https://github.com/og-brandon/TSCI-II-2020-soundecology-paper-demonstration/raw/main/TSCI%20II%20paper.pdf)
+Project collaboration was done with Brenda C. Bravo and Leslie E. Pérez. You can download the paper [here.](https://github.com/og-brandon/TSCI-II-2020-soundecology-paper-demonstration/raw/main/TSCI%20II%20paper.pdf)
 
 Libraries used:
 - soundecology
